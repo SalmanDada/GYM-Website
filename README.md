@@ -12,9 +12,9 @@ https://sad-nobel-afa93f.netlify.app
 * Section contains the content of website.
 ## Features:
 * I have provided the local links to it to go to the desired section on web page.
-* I have provided hovering effects on different sections to make my website more beautiful.
-* I have used media query to make my website responsive.
-* I took poppins font from google fonts for my website.
-* I have added background,trainers and machines images through google.
-* I have provided address,phone number and email inside contact section. 
+* I have provided hovering effects on different sections to make the website more beautiful.
+* I have used media query to make the website responsive.
+* I took poppins font from google fonts for the website.
+* I have added background, trainers and machines images from google.
+* I have provided address, phone number and email inside contact section. 
 * I have created contact section for the ones who have queries related to the gym.
