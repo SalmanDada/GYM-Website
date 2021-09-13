@@ -7,7 +7,7 @@ This website doesn't say much it is a just a way to showcase my HTML and CSS ski
 ## Hosted Link (Netlify):
 https://sad-nobel-afa93f.netlify.app
 ## How I Made This:
-* I have divided my website body into 2 parts, First is navbar and second is section.
+* I have divided the website body into 2 parts, First is navbar and second is section.
 * Navbar contains logo and menu.
 * Section contains the content of website.
 ## Features:
