@@ -4,6 +4,8 @@ This website will help the people who wants to join plus fitness.
 This website doesn't say much it is a just a way to showcase my HTML and CSS skills.
 # Technical Stacks Used:
 * HTML AND CSS
+# Hosted Link (Netlify):
+https://sad-nobel-afa93f.netlify.app
 # How I Made This:
 * I have divided my website body into 2 parts,First is navbar and second is section.
 * Navbar contains logo and menu.
